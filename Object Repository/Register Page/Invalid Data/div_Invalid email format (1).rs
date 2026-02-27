@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invalid email format (1)</name>
+   <tag></tag>
+   <elementGuidId>b9facc62-36bf-48da-80fd-32c3d7e74600</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f8e89cbe-2ee1-4fdf-a86c-92db13bdb912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>673ca743-c5d6-4ed6-bc68-d084f9b8ca10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger col-lg-12 animated fadeInDown</value>
+      <webElementGuid>0cee7c26-947c-4621-b006-34c7bfe3eabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid email format.</value>
+      <webElementGuid>c57b5653-991f-414b-a880-1b3d2aada8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error&quot;)</value>
+      <webElementGuid>a515aa7a-64d4-46f1-91e7-fb0b69e66d4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='error']</value>
+      <webElementGuid>591f2461-2c91-4fb6-bf39-621e89d9195f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password recovery'])[1]/preceding::div[29]</value>
+      <webElementGuid>80766d34-d6ae-4c5c-9d0b-23d092088aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/preceding::div[32]</value>
+      <webElementGuid>c5c43929-cd3f-45ae-b1bb-f11f2cdc4006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>5c18028d-5f3f-49a8-9fe4-819370b908fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'error' and (text() = 'Invalid email format.' or . = 'Invalid email format.')]</value>
+      <webElementGuid>f329927b-c5b8-42ea-9a22-db9409b65066</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
